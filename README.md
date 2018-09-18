@@ -1,4 +1,4 @@
-# Cardano Name Service
+![Cardano Name Service](./assets/title.jpg)
 
 > 📖🔍 Documents of the Cardano Name Service.
 
