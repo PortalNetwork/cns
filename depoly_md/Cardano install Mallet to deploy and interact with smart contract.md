@@ -32,7 +32,7 @@ $ ./mallet --help
 ```
 
 
-
+```
      mallet 2.0.0 - command line utility for KEVM/IELE testnets
     
        USAGE
@@ -52,6 +52,7 @@ $ ./mallet --help
          --no-color         Disable colors
          --quiet            Quiet mode - only displays warn and error messages
          -v, --verbose      Verbose mode - will also output debug messages
+```
 Before we can start to interact with Cardano
 
 ```
