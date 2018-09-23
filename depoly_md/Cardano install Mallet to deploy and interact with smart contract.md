@@ -191,7 +191,7 @@ And the contract return "0xd49348656c6c6f20576f726c64000000000000000b", let tran
 
 
 
-![螢幕快照 2018-09-21 下午3.56.42](https://github.com/johnny7861532/cns/blob/master/depoly_md/translate.png)
+![螢幕快照 2018-09-21 下午3.56.42](/depoly_md/translate.png)
 
 
 
