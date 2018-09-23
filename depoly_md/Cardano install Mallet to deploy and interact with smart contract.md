@@ -1,10 +1,10 @@
 # Cardano install Mallet to deploy and interact with smart contract
 
-###Mallet
+### Mallet
 
 Mallet, the minimum wallet, is a command line utility for deploying smart contracts and interacting with the [Cardano IELE and KEVM testnets](https://testnet.iohkdev.io/) developed by IOHK. Mallet is written in Javascript and is based on the Node.js REPL, so it gives access to some handy functions as well as libraries such as Web3. Mallet can also be included as a library in your own JavaScript programs.
 
-###Installing
+### Installing
 
 Mallet requires Node.js version 10.4.0 or later. There are more detailed instructions for installing Node.js and Mallet in two places.
 
@@ -23,7 +23,7 @@ $ npm install
 
 ###  
 
-###Running the command line interface
+### Running the command line interface
 
 Type the following to see Mallet's help file:
 
@@ -86,7 +86,7 @@ mallet> listCommands()
 
 
 
-###Account mangerment
+### Account mangerment
 
 Now we are ready to create a account and take some testing token
 
@@ -191,7 +191,7 @@ And the contract return "0xd49348656c6c6f20576f726c64000000000000000b", let tran
 
 
 
-![螢幕快照 2018-09-21 下午3.56.42](/Users/johnnyhsieh/Downloads/螢幕快照 2018-09-21 下午3.56.42.png)
+![螢幕快照 2018-09-21 下午3.56.42](https://github.com/johnny7861532/cns/blob/master/depoly_md/translate.png)
 
 
 
