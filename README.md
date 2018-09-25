@@ -13,6 +13,7 @@ CNS is the Cardano Name Service, a distributed, open, and extensible naming syst
 
 #### Table of Contents
 -  [Introduction](./docs/INTRODUCTION.md)
+- [Using Mallet To Deploy Contract](/depoly_md/Cardano%20install%20Mallet%20to%20deploy%20and%20interact%20with%20smart%20contract.md)
 
 ## 📣 Contributing
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
