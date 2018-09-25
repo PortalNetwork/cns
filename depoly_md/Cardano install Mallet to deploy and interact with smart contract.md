@@ -113,7 +113,7 @@ mallet> getBalance()
 
 
 
-You cna also check the transaciton receipt with `$getReceipt`
+You can also check the transaciton receipt with `$getReceipt`
 
 ```
 mallet> getReceipt('0xe45a5ec488933b01f615af5771eabec642c95024b16aafdeda8256393857b231')
