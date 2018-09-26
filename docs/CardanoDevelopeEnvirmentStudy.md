@@ -1,4 +1,4 @@
-# Cardano Develope Environment Study
+# Cardano Develop Environment Study
 
 
 
